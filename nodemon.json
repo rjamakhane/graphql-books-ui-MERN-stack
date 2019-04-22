@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "rafiq_31",
+        "MONGO_PASSWORD": "hYyFZksMCbdMhba2",
+        "MONGO_DB": "Books-UI"
+    }
+}
